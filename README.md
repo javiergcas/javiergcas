@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning about [Dimensionality Reduction](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1134012/full), Natural Language Processing and Large Language Models.
 - 👯 I’m looking to collaborate on projects that use dynamic visualization libraries in Python.
 - 💬 You can learn more about me [here](https://javiergcas.github.io).
+
+![My Skills](https://skillicons.dev/icons?i=py,sklearn,matlab,bash,vscode,vim)
