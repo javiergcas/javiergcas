@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on muti-echo fMRI, resting-state fMRI and the neurobiology of spontaneous thoughts.
+- 🌱 I’m currently learning about Natural Language Processing and Large Language Models.
+- 👯 I’m looking to collaborate on projects that use dynamic visualization libraries in Python.
+- 💬 You can learn more about me [here](https://javiergcas.github.io).
 <!--
 **javiergcas/javiergcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
