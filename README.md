@@ -1,6 +1,6 @@
 ## Hi there!
 *** 
-My name is Javier. I am an Electrical and Computer Engineer, turned Biomedical Engineer/Neuroscientist deeply interested in all things Data Science, Machine Learning and AI.
+My name is Javier. I am an Electrical and Computer Engineer, turned Biomedical Engineer/Neuroscientist who is deeply interested in all things Data Science, Machine Learning and AI.
 
 - 🧠 I work with large functional MRI datasets to gain new insights about how our brians are organized, and to explore the [neurobiology of spontaneous thoughts](https://www.biorxiv.org/content/10.1101/2024.06.05.596482v1.abstract).
   
